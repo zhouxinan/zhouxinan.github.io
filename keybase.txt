@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/zhouxinan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xinanz.me
+  * I am zhouxinan (https://keybase.io/zhouxinan) on keybase.
+  * I have a public key with fingerprint 7655 C5D2 953E 72E9 607A  E7C3 1A85 74A9 23FC 6C12
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202cd7d810b48b638125de97847f754159dc58f0f9857b15de538d110b4371fa9a0a",
+      "fingerprint": "7655c5d2953e72e9607ae7c31a8574a923fc6c12",
+      "host": "keybase.io",
+      "key_id": "1a8574a923fc6c12",
+      "kid": "01019274af2fee02e393a0b87584b07092f080746257cc09846a4386bbf1e384aaad0a",
+      "uid": "a070de4efd2158dcda03868a6cb98319",
+      "username": "zhouxinan"
+    },
+    "service": {
+      "hostname": "xinanz.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1615276984,
+  "expire_in": 157680000,
+  "prev": "858e4910f86a4a621bf6d0a3b504007c96947d0bde49c71ea089ec09e408c1fb",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ9TJVVHL6AWveWA5og5Mh8Qxt4Ze/3BxWTyiEKoTglG3U97/ue996X
+j3tv91NABrOLlCDIGDBdH4aTgBqGEJJRgoB8tIo2k2DIVDaJQY0vERSpc5n+1/nn
+nPP7Pc9znue307XeT6PzebHAUffKcsYLPj93VDo1R+K2t+ZgokXOwqJzsHS4usEM
+GdodhnRVxqIxnCBxUpI5mSdwkeZFluIJkpGhwPE0p3AMTTCCLDG8gisCz3AigXoM
+xcuEF05xhAIEgANMjymq2QhtVptqdiBZjmUYiZFJgaEgR0KBxTkAOYkiABKhgUBS
+isRKBImIJovdy0DmRGCHUaoF1dDFsGrvf/BPfeOEQKKWQioQ4iSkBArgIs8xPC3i
+HC6QCs7jHM2SDCdJuMDTLKApnhVFhYAUTwMA5FXfzlU5gCgypKEikwTDy5IMcATm
+ASuJAk8RghdohzYzyIQInW2yOI+qZmDGcvUYKrtUCXon643yBLLazo5CZz1mtVkc
+FsmSgcomh8Nqj/bSHFlWL84NRcMTBYOommU0RcRwQZtdtZixaAIhJYfqlSRYgiE5
+FiXRY/CoVbVBg+pFMBzL42h534EuJMkzPKQFAld4FBmwJCEqLMpKiQxO4zgnCaxA
+czIuoryCxBEQ4LwA0YggjfMSoYiYN9OHZgvS5pFPYESadtVoBg6nDWK51zpS12h8
+dJp1a32930uj0wY8/XS7Gv3/VXM/aJ967/Kph+VfR0Yc6HUvd/cXX54q9neEvkk1
+1xTcj424uf1h49KFZP2OSfrKKffSS7cmQgza5dLmzvilwsb+pjXWkUPrXgsZXw4Z
+8mTOPzP2baMwlxkxPeApqTvzUaumU9pW8Vfw4DW99rOgs7+W9T0or589PV8Y0L5l
+/9CZP2IIiMf/kDSa4y/2xe6M1N1Nn7WdL17JzlpqY2+E0rXRxrvav3fnx8UtdOQ3
+VF4fjdsy+MbGiqGyhDSjYf/woba3v6tyP29JqdlUMnOuTFdIp54wjcvfxx9sCmu7
+sc7dW7u1K6U2TbKoLq1p8dMVurfj+tUiy9b+emzml7G+O7WMWs+28I/z9gxX1Ofc
+zk2tiplobgu5SoTnHQ/wU6Txng0vjyV/4VsugY+7HoDpgd/m2NerfVO0N0uSUpZ2
+NxWB9Y/Cnz336PNKV49Smjk4uznywN61pQOHu1u+jNXPScEjiROBne07zH96FifJ
+uI23jhTfdniKen8P98xUb8rqqUrSbQvdkzc6HRgU+snQ5oP578QEVzRUnX18Jc1o
+zGj5Jhkc3uAXfrI7auy0NswD/knYV3zifthYSetP9c8dC/CraXDlBe8ELfMm+1cL
+wZp33XXvV987Fs8Or5TeuzT1465XL86d35eYciGhYPJOY0Ri9UKULmjxEh14PIze
+64x6y3kxf3Zx5D9ITsRp
+=vIsn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zhouxinan
+
+==================================================================
