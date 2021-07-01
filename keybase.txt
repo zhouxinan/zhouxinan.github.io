@@ -4,7 +4,7 @@ https://keybase.io/zhouxinan
 
 I hereby claim:
 
-  * I am an admin of https://xinanz.me
+  * I am an admin of https://xinanzhou.com
   * I am zhouxinan (https://keybase.io/zhouxinan) on keybase.
   * I have a public key with fingerprint 7655 C5D2 953E 72E9 607A  E7C3 1A85 74A9 23FC 6C12
 
@@ -22,16 +22,16 @@ To do so, I am signing this object:
       "username": "zhouxinan"
     },
     "service": {
-      "hostname": "xinanz.me",
+      "hostname": "xinanzhou.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1615276984,
+  "ctime": 1625106601,
   "expire_in": 157680000,
-  "prev": "858e4910f86a4a621bf6d0a3b504007c96947d0bde49c71ea089ec09e408c1fb",
-  "seqno": 18,
+  "prev": "b887f9824360b59224141b7989e09d8b002c193594db2e4604fbfcff0007474d",
+  "seqno": 34,
   "tag": "signature"
 }
 
@@ -41,30 +41,30 @@ which yields the signature:
 Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMNsAnicbVJ9TJVVHL6AWveWA5og5Mh8Qxt4Ze/3BxWTyiEKoTglG3U97/ue996X
-j3tv91NABrOLlCDIGDBdH4aTgBqGEJJRgoB8tIo2k2DIVDaJQY0vERSpc5n+1/nn
-nPP7Pc9znue307XeT6PzebHAUffKcsYLPj93VDo1R+K2t+ZgokXOwqJzsHS4usEM
-GdodhnRVxqIxnCBxUpI5mSdwkeZFluIJkpGhwPE0p3AMTTCCLDG8gisCz3AigXoM
-xcuEF05xhAIEgANMjymq2QhtVptqdiBZjmUYiZFJgaEgR0KBxTkAOYkiABKhgUBS
-isRKBImIJovdy0DmRGCHUaoF1dDFsGrvf/BPfeOEQKKWQioQ4iSkBArgIs8xPC3i
-HC6QCs7jHM2SDCdJuMDTLKApnhVFhYAUTwMA5FXfzlU5gCgypKEikwTDy5IMcATm
-ASuJAk8RghdohzYzyIQInW2yOI+qZmDGcvUYKrtUCXon643yBLLazo5CZz1mtVkc
-FsmSgcomh8Nqj/bSHFlWL84NRcMTBYOommU0RcRwQZtdtZixaAIhJYfqlSRYgiE5
-FiXRY/CoVbVBg+pFMBzL42h534EuJMkzPKQFAld4FBmwJCEqLMpKiQxO4zgnCaxA
-czIuoryCxBEQ4LwA0YggjfMSoYiYN9OHZgvS5pFPYESadtVoBg6nDWK51zpS12h8
-dJp1a32930uj0wY8/XS7Gv3/VXM/aJ967/Kph+VfR0Yc6HUvd/cXX54q9neEvkk1
-1xTcj424uf1h49KFZP2OSfrKKffSS7cmQgza5dLmzvilwsb+pjXWkUPrXgsZXw4Z
-8mTOPzP2baMwlxkxPeApqTvzUaumU9pW8Vfw4DW99rOgs7+W9T0or589PV8Y0L5l
-/9CZP2IIiMf/kDSa4y/2xe6M1N1Nn7WdL17JzlpqY2+E0rXRxrvav3fnx8UtdOQ3
-VF4fjdsy+MbGiqGyhDSjYf/woba3v6tyP29JqdlUMnOuTFdIp54wjcvfxx9sCmu7
-sc7dW7u1K6U2TbKoLq1p8dMVurfj+tUiy9b+emzml7G+O7WMWs+28I/z9gxX1Ofc
-zk2tiplobgu5SoTnHQ/wU6Txng0vjyV/4VsugY+7HoDpgd/m2NerfVO0N0uSUpZ2
-NxWB9Y/Cnz336PNKV49Smjk4uznywN61pQOHu1u+jNXPScEjiROBne07zH96FifJ
-uI23jhTfdniKen8P98xUb8rqqUrSbQvdkzc6HRgU+snQ5oP578QEVzRUnX18Jc1o
-zGj5Jhkc3uAXfrI7auy0NswD/knYV3zifthYSetP9c8dC/CraXDlBe8ELfMm+1cL
-wZp33XXvV987Fs8Or5TeuzT1465XL86d35eYciGhYPJOY0Ri9UKULmjxEh14PIze
-64x6y3kxf3Zx5D9ITsRp
-=vIsn
+yMNyAnicbZJ7UFRVHMd3IUKoRmJEjdLiOgsqyNz3Yx2HQZjE0BoZV6N4eO695y63
+Zfcuu8tjJWxaQh2hRifWAXV0GEsiDBmpCAV5xJgKjoNEiggNFYPNCBKh8Wi0cxn9
+r/PPmXN+n+/3fH/nnO6XAg2hxsgyT92af3PDjT2dx/INe4bX1hVjoiZ7MXMxZoOL
+E8yVoduTbVNlzIzhBImTkszJPIGLNC+yFE+QjAwFjqc5hWNoghFkieEVXBF4hhMJ
+VGMoXiZ0nOIIBQgAB1gcpqgOK3Q5XarDg2w5lmEkRiYFhoIcCQUW5wDkJIoAyIQG
+AkkpEisRJBLmaG5dgcKJwA3jVQ3toUX2Yrz/4Z/lxgmBRCWFVCDESUgJFMBFnmN4
+WsQ5XCAVnMc5miUZTpJwgadZQFM8K4oKASmeBgDIi7nzF+0AksiQhopMEgwvSzLA
+EcwDVhIFniIEHXRDlwPYIaL35mj5RaoDOLCSOAxtF6gS1G9Wb+UpsljWuXhJsyO1
+06V5NEnLRaUcj8fpNutSj9eps4VQzH7qki2qDhndJFIUQJdb1RyYmUCk5FF1WwK1
+Q+AsixNxGCxyqi6YreoEw7E8joZ+DixAliLPc+jBSJpicZERSJImaELkBF6AuCDz
+Io4enRAoRqBlkYQ0i9OKqEiKgjw4mqNlTO8rz6FhZopGOYEVebpVqwN48l0QK+nq
+zHjOYAw1PB8UoH8xQ2hI2LOPd7Z86ZP0sTDT5S3TKY4WsPOMDzIXmQdhid/c+XBq
+/WjPnwuXJiKnpgPFGzM/bHYE16+tiFj4pTmgpc664tuUtCUVQQEjpfG2LV10R0Fr
+eozXdLtp1XHX6HjlOyGfnQvvH9TmVm7YceFV6fBh0z5Dc0X/y2Tto8mmkcyEAxvr
+Jz+tqpu0nViTd+xgwBxgM5YeXX7Ov21vyo/GZN/Ei8arVjhYORfdGx358/5rq+s6
+/cd9H9VYlpeF5FZbxi90+tJzCphT383ZoxvLkz+fSOuOOuk5C9pTD0Sd3j4fcL6U
+Bis7ZpxZ3p43v/zn4zuZralPjAu7DJbw5ttLalx9/pp1RbPmidn7besT2t54+Fph
+1dag09VZ0w2/Ml9X798wsrvx5ojv0db+zLvmv/rAu+GmCUvbWO1C1PmBx12WodWr
+dtoHXrl+94Xu2Bg2Nvg3e7v2fkKVqep6x5XU8upPRmHiUWdrbFNo/OM/eqsTVwwb
+39byYk/12je5dkwFj5XMzN88uW4AzHobkpqu2g5lDLsuSWx77OavKg3JJ1qW7ts4
+pM0HJh95q77PWrJpSH5dLOs9WHooIYIZeZB0zZZ7Izhj+khaK+TjvPcs951/K5fH
+P/BHbIurf9hc6Bvek7/MNtN4q/jMsisNMWVTbGDtT6P+IP8tH51U+L1z7ov3fo/c
+3eesvJd4kciq2z5oNO3C/wMYhcTx
+=/U1j
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
