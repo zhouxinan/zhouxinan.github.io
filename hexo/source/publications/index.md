@@ -61,3 +61,19 @@ Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Sec
 Keyu Man, Xin'an Zhou, and Zhiyun Qian
 Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security.
 **Key Insight: Using ICMP as a side-channel to perform DNS Cache Poisoning Attacks.**
+
+<details>
+  <summary>BibTeX</summary>
+    
+  ```bibtex
+@inproceedings{man2021dns,
+  title={Dns cache poisoning attack: Resurrections with side channels},
+  author={Man, Keyu and Zhou, Xin'an and Qian, Zhiyun},
+  booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={3400--3414},
+  year={2021}
+}
+  ```
+</details>
+
+
