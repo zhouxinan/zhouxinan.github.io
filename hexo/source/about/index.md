@@ -14,3 +14,16 @@ Email: xinan.zhou at email.ucr.edu
 Before that, he obtained his bachelor's degree in Software Engineering from [Fudan University](https://www.fudan.edu.cn/).
 
 His undergraduate advisors were [Prof. Zhemin Yang](https://yangzhemin.github.io/), [Prof. Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en), and [Prof. Yuan Zhang](https://yuanxzhang.github.io/). 
+
+## Research Interests
+
+My research focuses on Network Security and Cryptography, specializing in security and privacy within network protocols, architectures, wireless communication, and cryptographic systems. 
+
+### Keywords
+
++ Network Protocols, and Network Side Channels
++ Vulnerability Discovery and Exploitation
++ Wireless Security
++ Cryptographic Attacks
++ Standards and Implementations
++ High-speed Networking
