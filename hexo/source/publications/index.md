@@ -8,7 +8,8 @@ date: 2024-07-02 12:00:38
 Xin'an Zhou, Zhiyun Qian, Juefei Pu, Qing Deng, Srikanth V. Krishnamurthy, Keyu Man
 Black Hat USA 2024 
 
-### [Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks](https://www.cs.ucr.edu/~xzhou114/ccs24mesh_preprint.pdf)
+### [Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks](https://www.cs.ucr.edu/~zhiyunq/pub/ccs24_wireless_mesh.pdf)
+[Preprint](https://www.cs.ucr.edu/~xzhou114/ccs24mesh_preprint.pdf)
 Xin'an Zhou, Qing Deng, Juefei Pu, Keyu Man, Zhiyun Qian, Srikanth V. Krishnamurthy
 Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security. 
 

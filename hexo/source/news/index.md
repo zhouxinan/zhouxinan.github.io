@@ -3,6 +3,8 @@ title: News
 date: 2024-07-02 12:02:57
 ---
 
+(9/4/2024) I am thankful for the ACM CCS 2024 Student Travel Grant. 
+
 (5/20/2024) I got one paper on Wireless Mesh Network Security accepted by ACM CCS 2024, and one talk accepted by Black Hat USA 2024.
 
 (7/14/2023) Nominated for [The Pwnie Awards 2023 "Pwnie for Most Under-Hyped Research"](https://pwnies.com/perils-and-mitigation-of-security-risks-of-cooperation-in-mobile-as-a-gateway-iot/), for the research "Perils and Mitigation of Security Risks of Cooperation in Mobile-as-a-Gateway IoT".

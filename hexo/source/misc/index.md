@@ -18,6 +18,7 @@ date: 2024-07-02 16:17:14
 
 
 ## Selected Awards
++ ACM CCS 2024 Student Travel Grant
 + GREPSEC VI Workshop Travel Grant
 + USENIX Security '23 Diversity Grant
 + IEEE Symposium on Security and Privacy 2022 Student Travel Grant
