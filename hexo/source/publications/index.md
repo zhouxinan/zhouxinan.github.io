@@ -44,10 +44,11 @@ Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Sec
   <summary>BibTeX</summary>
     
   ```bibtex
-  @inproceedings{zhou2024untangling,
+@inproceedings{zhou2024untangling,
   title={Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks},
   author={Zhou, Xin'an and Deng, Qing and Pu, Juefei and Man, Keyu and Qian, Zhiyun and Krishnamurthy, Srikanth V},
-  booktitle={Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security},
+  booktitle={Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security},
+  pages={2072--2086},
   year={2024}
 }
   ```
