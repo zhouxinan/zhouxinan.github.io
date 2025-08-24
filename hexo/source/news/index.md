@@ -3,6 +3,12 @@ title: News
 date: 2024-07-02 12:02:57
 ---
 
+(7/2025) Nominated for [The Pwnie Awards 2025 "Pwnie for Best Cryptographic Attack"](https://x.com/PwnieAwards/status/1948079467873571220), for the research "Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks".
+
+(6/2025) I joined the PC of ACSAC 2025.
+
+(6/2025) I started my internship with Palo Alto Networks. 
+
 (9/4/2024) I am thankful for the ACM CCS 2024 Student Travel Grant. 
 
 (5/20/2024) I got one paper on Wireless Mesh Network Security accepted by ACM CCS 2024, and one talk accepted by Black Hat USA 2024.
