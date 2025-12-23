@@ -3,6 +3,10 @@ title: News
 date: 2024-07-02 12:02:57
 ---
 
+(12/2025) I passed my Ph.D. defense. 
+
+(12/2025) I got one paper on Wi-Fi Security accepted by NDSS 2026.
+
 (7/2025) Nominated for [The Pwnie Awards 2025 "Pwnie for Best Cryptographic Attack"](https://x.com/PwnieAwards/status/1948079467873571220), for the research "Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks".
 
 (6/2025) I joined the PC of ACSAC 2025.

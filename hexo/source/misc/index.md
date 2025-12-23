@@ -37,7 +37,5 @@ date: 2024-07-02 16:17:14
 + Tung OOCL Scholarship, 2014, Fudan University (The First Prize Undergraduate Scholarship)
 
 ## Friends
-+ [ETenal](https://etenal.me/)
 + [Haobin Hiroki Chen](https://hiroki-chen.github.io/)
-+ [Zero Pwned](https://blog.zeropwned.com/about/)
 + [Blaine Hoak](https://hoak.me/)

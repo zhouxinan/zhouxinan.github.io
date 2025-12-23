@@ -2,6 +2,12 @@
 title: Publications
 date: 2024-07-02 12:00:38
 ---
+## 2026
+
+### AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks
+Xin'an Zhou, Juefei Pu, Zhutian Liu, Zhiyun Qian, Zhaowei Tan, Srikanth V. Krishnamurthy, Mathy Vanhoef
+NDSS 2026
+
 ## 2025
 
 ### [SCAD: Towards a Universal and Automated Network Side-Channel Vulnerability Detection](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a068/21B7RcuK7C0)
@@ -39,6 +45,7 @@ Black Hat USA 2024
 ### [Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks](https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs24_wireless_mesh.pdf)
 Xin'an Zhou, Qing Deng, Juefei Pu, Keyu Man, Zhiyun Qian, Srikanth V. Krishnamurthy
 Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security. 
+**Finalist of 2025 Pwnie Awards for Best Cryptographic Attack**
 
 <details>
   <summary>BibTeX</summary>
@@ -67,7 +74,7 @@ Black Hat Asia 2023
 [Site](https://maag-iot.xinanzhou.com/)
 Xin'an Zhou, Jiale Guan, Luyi Xing, Zhiyun Qian
 Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security.
-**Pwnie Award Nomination for Most Under-hyped Research**
+**Finalist of 2023 Pwnie Awards for Most Under-hyped Research**
 
 <details>
   <summary>BibTeX</summary>
