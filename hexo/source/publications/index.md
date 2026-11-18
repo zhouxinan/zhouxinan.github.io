@@ -4,11 +4,54 @@ date: 2024-07-02 12:00:38
 ---
 ## 2026
 
-### AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks
+### [Poster: Exploiting Side-Channel Leakage in AI Glasses](https://dl.acm.org/doi/pdf/10.1145/3842203.3844595)
+Zixun Xiong, Cheng Gu, Xin'an Zhou, Yanan Guo, Yicheng Zhang
+Proceedings of the Second Workshop on Enhancing Security, Privacy, and Trust in Extended Reality
+
+### [Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy](https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/)
+Emmanuel Zhou, Adam Robbie, Rick Wyble, Miguel Pereira
+Unit 42 by Palo Alto Networks
+
+### [AirSnitch: Breaking Client Isolation in Wi-Fi Networks](https://blackhat.com/archive/asia/2026/briefings/schedule/#airsnitch-breaking-client-isolation-in-wi-fi-networks-51283)
+Mathy Vanhoef, Zhiyun Qian, Xin'an Zhou, Juefei Pu, Zhutian Liu, Zhaowei Tan, Srikanth V. Krishnamurthy
+Black Hat Asia 2026
+
+### [When Wi-Fi Encryption Fails: Protecting Your Enterprise from AirSnitch Attacks](https://unit42.paloaltonetworks.com/air-snitch-enterprise-wireless-attacks/)
+Emmanuel Zhou, Adam Robbie, Rick Wyble, Zhutian Liu, Zhiyun Qian, Zhaowei Tan, Srikanth V. Krishnamurthy, Mathy Vanhoef
+Unit 42 by Palo Alto Networks
+
+### [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/)
+[Site](https://www.airsnitchattacks.com/) [Source](https://github.com/zhouxinan/airsnitch)
 Xin'an Zhou, Juefei Pu, Zhutian Liu, Zhiyun Qian, Zhaowei Tan, Srikanth V. Krishnamurthy, Mathy Vanhoef
 NDSS 2026
+**Finalist of 2026 Pwnie Awards for Most Innovative Research**
+
+<details>
+  <summary>BibTeX</summary>
+    
+  ```bibtex
+@inproceedings{zhou_airsnitch:_2026,
+  address = {San Diego, CA, USA},
+  title = {{AirSnitch}: {Demystifying} and {Breaking} {Client} {Isolation} in {Wi}-{Fi} {Networks}},
+  isbn = {9798991927680},
+  shorttitle = {{AirSnitch}},
+  url = {https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf},
+  doi = {10.14722/ndss.2026.241282},
+  language = {en},
+  urldate = {2026-11-18},
+  booktitle = {Proceedings of the 2026 {Network} and {Distributed} {System} {Security} {Symposium}},
+  publisher = {Internet Society},
+  author = {Zhou, Xin'an and Pu, Juefei and Liu, Zhutian and Qian, Zhiyun and Tan, Zhaowei and Krishnamurthy, Srikanth V. and Vanhoef, Mathy},
+  year = {2026},
+}
+  ```
+</details>
 
 ## 2025
+
+### [Rethinking Network Access Control Protocols to Protect Critical Systems](https://escholarship.org/uc/item/9rh2b0mz)
+Xin'an Zhou
+UC Riverside
 
 ### [SCAD: Towards a Universal and Automated Network Side-Channel Vulnerability Detection](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a068/21B7RcuK7C0)
 Keyu Man, Zhongjie Wang, Yu Hao, Shenghan Zheng, Xin'an Zhou, Yue Cao, Zhiyun Qian

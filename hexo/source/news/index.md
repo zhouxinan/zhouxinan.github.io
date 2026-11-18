@@ -3,6 +3,18 @@ title: News
 date: 2024-07-02 12:02:57
 ---
 
+(7/2026) My team [OT Threat Research](https://unit42.paloaltonetworks.com/threat-bulletin/ot-threat-research-arc/) published [Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy](https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/). 
+
+(7/2026) Nominated for [The Pwnie Awards 2026 "Pwnie for Most Innovative Research"](https://x.com/PwnieAwards/status/2078131651964473475), for the research "AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks".
+
+(4/2026) I joined the PC of ACSAC 2026.
+
+(2/2026) I presented AirSnitch at NDSS 2026.
+
+(1/2026) I joined the PC of ACM CCS 2026.
+
+(1/2026) I started my new role as Senior Staff Researcher at [Palo Alto Networks](https://www.paloaltonetworks.com/). 
+
 (12/2025) I passed my Ph.D. defense. 
 
 (12/2025) I got one paper on Wi-Fi Security accepted by NDSS 2026.
